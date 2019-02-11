@@ -22,8 +22,8 @@ gamefield:
 "
 
 The config file can have other arbitrary entries.
-symbol_dead: " "
-symbol_alive: "o"
+symbol_dead: "0"
+symbol_alive: "1"
 """
 import os
 import configparser
